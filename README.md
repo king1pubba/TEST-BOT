@@ -11,3 +11,4 @@ A simple whatsapp bot ❤️
 
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Lara-MD...;Created+by+Ke4n...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Queen SP-BOT..."
+            alt="Typing">
